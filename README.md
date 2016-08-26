@@ -10,7 +10,8 @@ For installing this library:
 
 ## Functionnalities
 
-Generated documentation can be found **here**.
+Generated documentation can be found
+[here](http://gofabmo.org/G-Code-Thumbnail/).
 
 Three functions are available. A type ``Colors``.
 
