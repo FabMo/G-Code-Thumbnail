@@ -13,7 +13,7 @@ For installing this library:
 Generated documentation can be found
 [here](http://gofabmo.org/G-Code-Thumbnail/).
 
-Three functions are available. A type ``Colors``.
+Three functions are available. A type ``Colors`` is defined.
 
 ```javascript
 /*
