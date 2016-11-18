@@ -1,6 +1,6 @@
 {
     "name": "gcodethumbnail",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": " Generates thumbnails from G-Code code.",
     "preferGlobal": "false",
     "main": "gcodethumbnail.js",
@@ -10,6 +10,10 @@
     "repository" : {
         "type": "git",
         "url": "https://github.com/FabMo/G-Code-Thumbnail"
+    },
+    "dependencies": {
+        "canvas" : "1.4.x",
+        "gcodetogeometry" : "1.0.x"
     },
     "engines": { "node": "*" }
 }
